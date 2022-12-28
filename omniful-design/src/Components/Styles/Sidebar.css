@@ -13,3 +13,138 @@
 
     background: #FFFFFF;
 }
+.logo-img{
+    width: 40px;
+    height: 40px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.blank-div-1{
+    width: 42px;
+    height: 40px;
+    border-radius: 4px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.home-icon{
+    width: 42px;
+    height: 40px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.dollar{
+    width: 23px;
+    height: 19px;
+
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+.blank-div-2{
+    width: 42px;
+    height: 40px;
+
+    border-radius: 4px;
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+}
+.progress{
+    width: 18px;
+    height: 18px;
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+    
+}
+.graphics{
+    width: 18px;
+    height: 18px;
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+}
+.inventory-container{
+    width: 18px;
+    height: 18px;
+
+    flex: none;
+    order: 7;
+    flex-grow: 0;
+}
+.express{
+    width: 18px;
+    height: 18px;
+    flex: none;
+    order: 8;
+    flex-grow: 0;
+}
+.wallet{
+    width: 18px;
+    height: 18px;
+
+    flex: none;
+    order: 9;
+    flex-grow: 0;
+}
+.setting{
+    width: 42px;
+    height: 40px;
+
+    background-color: rgb(87, 87, 235);
+    color: #FFFFFF;
+    border-radius: 5px;
+    flex: none;
+    order: 10;
+    flex-grow: 0;
+}
+.setting-icon{
+    padding-top: 6px;
+}
+.profile{
+    width: 18px;
+    height: 18px;
+    flex: none;
+    order: 11;
+    flex-grow: 0;
+}
+.blank-div-3{
+    width: 42px;
+    height: 2px;
+
+    background: #F2F2F2;
+    border-radius: 1px;
+    flex: none;
+    order: 13;
+    flex-grow: 0;
+}
+.security{
+    width: 18px;
+    height: 18px;
+    flex: none;
+    order: 12;
+    flex-grow: 0;
+}
+.ask{
+    width: 18px;
+    height: 18px;
+
+    flex: none;
+    order: 14;
+    flex-grow: 0;
+}
+.logout{
+    width: 42px;
+    height: 40px;
+
+    flex: none;
+    order: 15;
+    flex-grow: 0;
+}
+
