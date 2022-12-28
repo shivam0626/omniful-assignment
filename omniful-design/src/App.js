@@ -1,9 +1,11 @@
 import './App.css';
-
+import Sidebar from './Components/Sidebar';
+// import Topbar from './Components/Topbar';
 function App() {
   return (
     <div className="App">
-      <h1>Hello React</h1>
+      {/* <Topbar /> */}
+      <Sidebar />
     </div>
   );
 }
