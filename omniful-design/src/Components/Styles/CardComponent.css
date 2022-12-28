@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.card-div{
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+}
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.active-btn{
+    background-color: rgb(203, 236, 203);
+    width: 40%;
+    color: green;
+    margin: auto;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 100px;
+    padding: 0 5px;
+}
+.card-text{
+    font-size: 13px;
+    line-height: 5px;
+}

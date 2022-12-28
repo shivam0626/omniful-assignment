@@ -1,10 +1,13 @@
 import './App.css';
-import SideBarSettings from './Components/SideBarSettings';
+// import CardComponent from './Components/CardComponent';
+import SalesChannel from './Components/SalesChannel';
+
 
 function App() {
   return (
     <div className="App">
-     <SideBarSettings />
+     <SalesChannel />
+     {/* <CardComponent /> */}
     </div>
   );
 }

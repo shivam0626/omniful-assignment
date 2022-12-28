@@ -1,0 +1,174 @@
+.top-head{
+    display: flex;
+    
+    padding: 10px;
+}
+.sales-header{
+    position: absolute;
+    width: 159px;
+    height: 20px;
+    left: 356px;
+    top: 84px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    color: #222222;
+}
+.btn-div{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1460px;
+    top: 74px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 5px;
+    padding-top: 6px;
+    
+}
+.sales-category{
+    display: flex;
+    font-family: 'Poppins',sans-serif;
+    font-size: 12px;
+}
+.sales-inte{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 126px;
+    height: 31px;
+    left: 356px;
+    top: 118px;
+}
+.all-channel{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 143px;
+    height: 30px;
+    left: 482px;
+    top: 118px;
+}
+.coming-soon{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 141px;
+    height: 30px;
+    left: 625px;
+    top: 118px;
+}
+.inte-1{
+    color: #5468FA;
+}
+.inte-2{
+    background-color: #5468FA;
+    color: #FFFFFF;
+    padding: 0px 6px;
+    border-radius: 8px;
+}
+.ac-1{
+    color: #666666;
+}
+.ac-2{
+    background: rgba(84, 104, 250, 0.25);
+    padding: 0px 6px;
+    border-radius: 8px;
+}
+.cs-1{
+    color: #666666;
+}
+.cs-2{
+    background: rgba(84, 104, 250, 0.25);
+    padding: 0px 6px;
+    border-radius: 8px;
+}
+.divide-1{
+    position: absolute;
+    left: 22.49%;
+    right: 0%;
+    top: 16.63%;
+    bottom: 83.26%;
+
+    background: rgba(84, 104, 250, 0.1);
+}
+.ah-1{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    left: 356px;
+    top: 173px;
+
+    background: #FFC82A;
+}
+.a-heading{
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 376px;
+    top: 173px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    color: #222222;
+}
+.card-grid-div{
+    position: absolute;
+    top: 203px;
+    left: 376px;
+    width: 82%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
+
+.mp-1{
+    position: absolute;
+    width: 8px;
+    height: 20px;
+    left: 356px;
+    top: 639px;
+
+    background: #FFC82A;
+}
+.mp-heading{
+    position: absolute;
+    width: 125px;
+    height: 20px;
+    left: 376px;
+    top: 639px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+.card-grid-div-2{
+    position: absolute;
+    top: 683px;
+    left: 376px;
+    width: 82%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
