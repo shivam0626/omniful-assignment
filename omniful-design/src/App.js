@@ -1,11 +1,10 @@
 import './App.css';
-import Sidebar from './Components/Sidebar';
-// import Topbar from './Components/Topbar';
+import SideBarSettings from './Components/SideBarSettings';
+
 function App() {
   return (
     <div className="App">
-      {/* <Topbar /> */}
-      <Sidebar />
+     <SideBarSettings />
     </div>
   );
 }
