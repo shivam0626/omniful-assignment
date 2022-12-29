@@ -6,7 +6,7 @@ import Sales from './Sales'
 const Allroutes = () => {
   return (
     <Routes>
-        <Route path='/sales' element={<Sales />} />
+        <Route path='/' element={<Sales />} />
         <Route path='/hubs' element={<Hubs />} />
     </Routes>
   )
