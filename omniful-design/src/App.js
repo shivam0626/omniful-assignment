@@ -1,13 +1,10 @@
 import './App.css';
-// import CardComponent from './Components/CardComponent';
-import SalesChannel from './Components/SalesChannel';
-
+import Allroutes from './routes/Allroutes';
 
 function App() {
   return (
     <div className="App">
-     <SalesChannel />
-     {/* <CardComponent /> */}
+     <Allroutes />
     </div>
   );
 }
