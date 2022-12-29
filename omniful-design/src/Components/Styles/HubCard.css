@@ -1,0 +1,56 @@
+.card-name{
+    display: flex;
+    justify-content: space-between;
+}
+.c-1{
+    display: flex;
+    gap: 10px;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.c-1-1{
+    width: 3px;
+    height: 30px;
+    background-color: green;
+}
+.active-btn{
+    background-color: rgb(203, 236, 203);
+    width: 50px;
+    color: green;
+    margin: auto;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.det-1{
+    display: flex;
+    gap: 15px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.h-icon{
+    margin-top: 10px;
+}
+.h-address{
+    text-align: left;
+    color: #aba7a7;
+    line-height: 2px;
+
+}
+.h-name{
+    text-align: start;
+    margin-top: 10px;
+    line-height: 2px;
+}
+.hub-grid-div{
+    position: absolute;
+    top: 203px;
+    left: 356px;
+    width: 82%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}

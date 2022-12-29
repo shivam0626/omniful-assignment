@@ -9,7 +9,7 @@ const SalesChannel = () => {
   return (
     <div>
         <div className='top-head'>
-            <p className='sales-header'>Sales channel Apps</p>
+            <h5 className='sales-header'>Sales channel Apps</h5>
             <div className='btn-div'>
                 <MoreHorizOutlinedIcon fontSize='medium'/>
             </div>

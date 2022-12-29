@@ -1,0 +1,41 @@
+.top-hub-header{
+    position: absolute;
+    width: 42px;
+    height: 20px;
+    left: 356px;
+    top: 84px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+
+    color: #222222;
+}
+.hub-section{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    font-size: 13px;
+    position: absolute;
+    width: 111px;
+    height: 31px;
+    left: 356px;
+    top: 118px;
+    border-bottom: 2px solid #5468FA;
+
+}
+.hub-1{
+    color: #5468FA;
+}
+.hub-2{
+    background-color: #5468FA;
+    color: #FFFFFF;
+    padding: 0px 6px;
+    border-radius: 8px;
+}

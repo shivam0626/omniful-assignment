@@ -39,7 +39,7 @@
     align-items: flex-start;
     padding: 0px;
     gap: 10px;
-
+    border-bottom: 2px solid #5468FA;
     position: absolute;
     width: 126px;
     height: 31px;
